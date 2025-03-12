@@ -1,0 +1,30 @@
+# Flutter/Dart specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+build/
+ios/Flutter/.last_build_id
+.flutter-plugins-dependencies
+*.iml
+.idea/
+.vscode/
+
+# Firebase config files - with wildcards to catch all possible locations
+google-services.json
+GoogleService-Info.plist
+**/ios/**/GoogleService-Info.plist
+**/android/**/google-services.json
+**/ios/Runner/GoogleService-Info.plist
+**/android/app/google-services.json
+**/ios/Firebase/
+**/android/app/src/*/google-services.json
+
+# Other sensitive information
+.env
+secrets.json
+key.properties
+keystore.properties
+*.keystore
+*.jks
