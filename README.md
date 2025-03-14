@@ -15,6 +15,10 @@
     <a href="https://dlmocha.com/app/umetalk"><strong>Explore App »</strong></a>
     <br />
     <br />
+    <a href="https://apps.apple.com/app/ume-talk/id1603663699"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg" alt="Download on the App Store" height="40"></a>
+    <a href="https://play.google.com/store/apps/details?id=com.leotran9x.ume_talk"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="60"></a>
+    <br />
+    <br />
     <a href="https://dlmocha.com/contact">Report Issue</a>
     ·
     <a href="https://dlmocha.com/contact">Collab</a>
@@ -26,9 +30,8 @@
 
 ![Product Name Screen Shot](https://dlmocha.com/GameImages/UmeTalkAppScreenShoot.png)
 
-Staying in touch has never been easier. All you need are an user names and password. You can quickly view your contacts who are on Ume Talk and start messaging. Send a free text, photo, sticker, GIFs. Ume Talk is a great alternative for fans of SMS texting!
+Staying in touch has never been easier. All you need are an username and password. You can quickly view your contacts who are on Ume Talk and start messaging. Send a free text, photo, sticker, GIFs. Ume Talk is a great alternative for fans of SMS texting!
 Break the ice with people nearby or around the world. Unlike some other apps, messaging is always free on Ume Talk. Stay in touch with your friends and family. Ume Talk lets you share messages, photos across mobile devices.
-
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -39,29 +42,25 @@ Break the ice with people nearby or around the world. Unlike some other apps, me
 - [x] Decrease latency on chat on iOS device
 - [x] Delete user
 - [ ] Send voice and video (Will not implement)
-- [ ] Reply to a message (In Progress)
+- [ ] Reply to a message 
 - [ ] Create group chat (In Progress)
-- [ ] Making a post system
-- [ ] Setup private/public account
+- [ ] Making post (In Progress)
+- [ ] Setup private/public account (In Progress)
 
-
-
-
-### Fontend
+### Frontend
 
 * [Flutter](https://flutter.dev/)
-* [Github](https://github.com/)
-
-
 
 ### Backend
+* [Springboot](https://start.spring.io/)
+* [NodeJS](https://nodejs.org/en)
 * [Firebase](https://firebase.google.com/)
-* [Google Cloud](https://cloud.google.com/)
-* [RestAPI](https://github.com/)
-* [JAVA Spring](https://start.spring.io/)
+* [MySQL](https://www.mysql.com)
+* [Kafka](https://kafka.apache.org)
+
+### Deployment
 * [Github](https://github.com/)
-
-
+* [Google Cloud](https://cloud.google.com/)
+* [Oracle](https://www.oracle.com/au/cloud/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
